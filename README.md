@@ -38,7 +38,7 @@ Follow these steps to install and run the application:
    - Copy the example environment file:
 
      ```bash
-     cp .env.example .env.local
+     cp .env .env
      ```
 
    - Open `.env` and paste your OpenWeatherMap API key:
